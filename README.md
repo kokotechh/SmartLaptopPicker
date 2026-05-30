@@ -1,4 +1,4 @@
-# 🎮 SmartLaptopPicker
+# 💻 SmartLaptopPicker
 
 A machine learning project that classifies laptops into categories based on their hardware specs.
 Built as a personal learning project to practice the full ML pipeline from data exploration to model evaluation.
@@ -56,4 +56,4 @@ Given a laptop's specs (GPU, RAM, Processor), predict which category it belongs 
 ---
 
 ## 👩‍💻 Built by
-**KokoTech** — learning ML one project at a time 💪
+**kokotechh** — learning ML one project at a time 💪
