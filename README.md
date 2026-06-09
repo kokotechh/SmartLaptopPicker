@@ -56,4 +56,4 @@ Given a laptop's specs (GPU, RAM, Processor), predict which category it belongs 
 ---
 
 ## 👩‍💻 Built by
-**kokotechh** — learning ML one project at a time 💪
+**kokotechh**
